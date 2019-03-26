@@ -1,0 +1,12 @@
+#!/bin/sh
+
+#
+#  Elliot Mason
+#  ejmason@uark.edu
+#  011718
+#
+#  point of this script is so i dont have to write the whole compile command
+#  and make the program execute after running
+
+clear
+g++ *.cpp -o run.exe && ./run.exe 

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# exit on error
+set -u -e
+
+clear
+echo "*** Compiling 'javac Main.java'***"
+echo ""
+echo ""
+echo ""
+javac Main.java
+echo "*** Running 'java Main.java'***"
+echo ""
+echo ""
+echo ""
+java Main

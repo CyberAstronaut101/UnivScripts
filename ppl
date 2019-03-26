@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Number of Active SSH sessions on $(hostname): $(who|wc -l)"
