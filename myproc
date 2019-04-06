@@ -3,6 +3,6 @@
 while true
 do
     clear
-    ps -aefl --forest | grep -v myproc | grep --color -E $USER
+    ps -aefl --forest | grep -v myproc | grep -v top | grep --color -E $USER
     sleep 1
 done
