@@ -17,6 +17,6 @@ This is a collection of all the scripts that I have written to reduce the amount
 * ppl
    * gives nice message for number of ssh sessions on a box
 * motd_turing
-   * add 'cat ~/bin/motd_turing' to .bashrc. just to make jumpts between boxes more clear
+   * add 'cat ~/bin/motd_turing' to .bashrc. just to make jumps between boxes more clear
 * ws
    * WIP
